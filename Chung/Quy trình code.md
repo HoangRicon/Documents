@@ -219,7 +219,7 @@ Tác nhân là nhóm người dùng hoặc hệ thống có quyền và hành vi
 
 ---
 
-## 8. PHA 4 — QUYẾT ĐỊNH NÊN BUILD TÁC NHÂN NÀO TRƯỚC
+## 8. PHA 4 — LÊN KẾ HOẠCH TRIỂN KHAI
 
 ### 8.1. Nguyên tắc ưu tiên
 Không build theo cảm tính. Phải ưu tiên theo các tiêu chí sau:

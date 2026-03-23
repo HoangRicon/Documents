@@ -3,7 +3,7 @@
 - Bài lớn mà sơ sài ko giải quyết dc việc không bao giờ bằng Bài nhỏ mà giải quyết được việc, 
 - Code thật nhanh làm sao giải quyết được việc ngay (Hoàn thành trước hoàn hảo sau) 
 - Prompt phải thật sát mô tả chi tiết và đưa ngữ cảnh tốt cho AI đọc (như code mẫu, file md hướng dẫn)
-
+- Xây thì xây theo luồng end to end ( các chức năng kết hợp vs nhau thành 1 luồng chứ ko build chức năng cho có)
 ## Các bước thực hiện để sử dụng AI code theo bài học trên
 
 ### 1. Phân tích chi tiết yêu cầu chức năng
